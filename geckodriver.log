@@ -1,0 +1,25 @@
+1498048345087	geckodriver	INFO	Listening on 127.0.0.1:49446
+1498048345227	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498048363264	Marionette	INFO	Listening on port 49451
+1498048363758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498048366661	Marionette	INFO	New connections will no longer be accepted
+1498048423137	geckodriver	INFO	Listening on 127.0.0.1:49496
+1498048423637	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498048429959	Marionette	INFO	Listening on port 49501
+1498048430355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498048435122	Marionette	INFO	New connections will no longer be accepted
+1498159339799	geckodriver	INFO	Listening on 127.0.0.1:51672
+1498159339924	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498159354301	Marionette	INFO	Listening on port 51680
+1498159354765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498159355401	Marionette	INFO	New connections will no longer be accepted
+1498220825781	geckodriver	INFO	Listening on 127.0.0.1:49465
+1498220826341	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498220871326	Marionette	INFO	Listening on port 49470
+1498220874715	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498220887611	Marionette	INFO	New connections will no longer be accepted
+1498221731711	geckodriver	INFO	Listening on 127.0.0.1:49619
+1498221731879	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498221750549	Marionette	INFO	Listening on port 49623
+1498221751756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498221758020	Marionette	INFO	New connections will no longer be accepted
